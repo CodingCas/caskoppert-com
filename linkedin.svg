@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="LinkedIn">
+  <style>
+    .o { fill: none; stroke: #15171a; stroke-width: 1.9; stroke-linejoin: round }
+    @media (prefers-color-scheme: dark) { .o { stroke: #f2f3f4 } }
+  </style>
+  <rect class="o" x="1" y="1" width="46" height="46" rx="10"/>
+  <g transform="translate(-2.65 0)">
+  <circle class="o" cx="15" cy="14.2" r="3.4"/>
+  <rect class="o" x="11.8" y="20.2" width="6.4" height="16.6"/>
+  <path class="o" d="M23.2 20.2h6.2v2.2c1.1-1.7 3.1-2.9 5.8-2.9 5 0 6.3 3.2 6.3 7.6v9.7h-6.4v-8.2c0-2-.6-3.4-2.5-3.4-2 0-2.8 1.5-2.8 3.5v8.1h-6.6z"/>
+  </g>
+</svg>
